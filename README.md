@@ -1,3 +1,2 @@
-![Uploading Screenshot_20231018_002736.png…]()
- pr.sementic-tag
-sementic tag using html and css
+
+![Uploading screencapture-file-C-Users-sonim-OneDrive-Desktop-alien-sementic-tag-layout-index-html-2023-10-29-14_01_46.png…]()
